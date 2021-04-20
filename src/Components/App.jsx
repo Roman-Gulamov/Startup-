@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Switch, Route, Link, Redirect } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route, Redirect, NavLink } from 'react-router-dom';
 
 import { RouteBranches } from './Router/RouteBranches';
 import { RouteDistrict } from './Router/RouteDistrict';
@@ -11,8 +11,18 @@ export const App = () => {
         <div className="choise container list-links">
             <Router>
                 <div className="choise-text d-flex justify-content-around flex-wrap text-center">
-                    <Link to="/districts" className="text-danger">Округа Российской Федерации</Link>
-                    <Link to="/branches" className="text-danger">Филиалы</Link>
+                    <NavLink 
+                        to="/districts" 
+                        className="text-danger" 
+                        activeClassName='active'
+                    >Округа Российской Федерации
+                    </NavLink>
+                    <NavLink 
+                        to="/branches" 
+                        className="text-danger" 
+                        activeClassName='active'
+                    >Филиалы
+                    </NavLink>
                 </div>
 
                 <Switch>
