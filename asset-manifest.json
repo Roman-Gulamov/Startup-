@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/Subjects/static/css/main.a1c9a3c7.chunk.css",
-    "main.js": "/Subjects/static/js/main.adea005a.chunk.js",
-    "main.js.map": "/Subjects/static/js/main.adea005a.chunk.js.map",
-    "runtime-main.js": "/Subjects/static/js/runtime-main.b8cd2b58.js",
-    "runtime-main.js.map": "/Subjects/static/js/runtime-main.b8cd2b58.js.map",
-    "static/css/2.11829350.chunk.css": "/Subjects/static/css/2.11829350.chunk.css",
-    "static/js/2.899162cb.chunk.js": "/Subjects/static/js/2.899162cb.chunk.js",
-    "static/js/2.899162cb.chunk.js.map": "/Subjects/static/js/2.899162cb.chunk.js.map",
+    "main.css": "/Subjects/static/css/main.cf3a114f.chunk.css",
+    "main.js": "/Subjects/static/js/main.d13b8300.chunk.js",
+    "main.js.map": "/Subjects/static/js/main.d13b8300.chunk.js.map",
+    "runtime-main.js": "/Subjects/static/js/runtime-main.7ed594c8.js",
+    "runtime-main.js.map": "/Subjects/static/js/runtime-main.7ed594c8.js.map",
+    "static/css/2.8943d9a7.chunk.css": "/Subjects/static/css/2.8943d9a7.chunk.css",
+    "static/js/2.554aece3.chunk.js": "/Subjects/static/js/2.554aece3.chunk.js",
+    "static/js/2.554aece3.chunk.js.map": "/Subjects/static/js/2.554aece3.chunk.js.map",
     "index.html": "/Subjects/index.html",
-    "precache-manifest.fcbd13a801ec0c0c2f68cc4d5aa956cb.js": "/Subjects/precache-manifest.fcbd13a801ec0c0c2f68cc4d5aa956cb.js",
-    "service-worker.js": "/Subjects/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/Subjects/static/css/2.11829350.chunk.css.map",
-    "static/css/main.a1c9a3c7.chunk.css.map": "/Subjects/static/css/main.a1c9a3c7.chunk.css.map",
-    "static/js/2.899162cb.chunk.js.LICENSE.txt": "/Subjects/static/js/2.899162cb.chunk.js.LICENSE.txt",
-    "static/media/app.scss": "/Subjects/static/media/FarEast.62962a70.jpg",
-    "static/media/stylesheet.css": "/Subjects/static/media/russo-one-v8-latin_cyrillic-regular.f5bd239b.ttf"
+    "static/css/2.8943d9a7.chunk.css.map": "/Subjects/static/css/2.8943d9a7.chunk.css.map",
+    "static/css/main.cf3a114f.chunk.css.map": "/Subjects/static/css/main.cf3a114f.chunk.css.map",
+    "static/js/2.554aece3.chunk.js.LICENSE.txt": "/Subjects/static/js/2.554aece3.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/Subjects/static/media/FarEast.f74811ca.jpg",
+    "static/media/stylesheet.css": "/Subjects/static/media/russo-one-v8-latin_cyrillic-regular.a809dcbe.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8cd2b58.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.899162cb.chunk.js",
-    "static/css/main.a1c9a3c7.chunk.css",
-    "static/js/main.adea005a.chunk.js"
+    "static/js/runtime-main.7ed594c8.js",
+    "static/css/2.8943d9a7.chunk.css",
+    "static/js/2.554aece3.chunk.js",
+    "static/css/main.cf3a114f.chunk.css",
+    "static/js/main.d13b8300.chunk.js"
   ]
 }
