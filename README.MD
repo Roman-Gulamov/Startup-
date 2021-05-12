@@ -1,7 +1,15 @@
-## Instructions for starting a project:
+![Subjects](https://res.cloudinary.com/romangulamov/image/upload/v1620859658/Screenshots/Subjects_tgbs7i.png)
 
-1. `git clone https://github.com/Roman-Gulamov/Subjects.git`
+# Instructions for starting a project:
 
-2. `yarn install`
+``` bash
+    1.  git clone https://github.com/Roman-Gulamov/Subjects.git
+```
 
-3. `yarn start`
+``` bash
+    2.  yarn install
+```
+
+``` bash
+    3.  yarn start
+```
